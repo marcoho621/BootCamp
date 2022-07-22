@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marco-venturenix-project-d801a",
+  "private_key_id": "f692ca545c3a686666f114ffc163ed47415a39c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDI6eikc0Iek7TK\nIEhlmgVe/xtfgbkAUuX+C27/0fuwc479xLIPNJhZmZFkyT6gZCdHzhyzB8jSVP4P\n/heB6jbtI3lrz68Ou+0RfI55XLMyTPykLriisWaOjkrGgVpQZYP0eNuAff4BHY0w\nLvN9/XBSyJzlbVtmhDolZd59ys99wd18BXJUwne+Y0fgeGeha1OX4GY6e0u3o28x\nr3DdH54T/Tvd80p6lP14U7kYIsBgm2LtATb3zMdKDMUNK8GFJ8vHiBbkjCJ9n0+C\nSdG2v6fMYN9+6OBsB37sw55rrhjKAoBL9qXHVsr8j6kMEt3H4zkdX7VhcNRj38j0\na/0QPbJ9AgMBAAECggEACHBqz52K+KXTp9Nug9xri7xdD5UiiptXNcvDjQaEJlR0\nSSYd8WDDYkZ+qPEbESAKPL9+AFC8MR/vNaGPczfw630PkjIjDeD7tqRSVIUXfqFl\nOBan6SclqHWpoAG6I9TGLVqpcN6mvX1BFPXXHHYTMo1iqb0yMNgunEUiV1frGnXn\n7aiQj2EbKD1GNIYNUQ9ujB1NnhAP4JGg+HnIAj8aNjOrANlwphEph3nXCtRUwtRu\n+bRyo4wvX10NJtrxqIDiuywYb+4u9IKGKnxJntgGxtbcsdBVxQrRZlMaJviIXyPD\nX7FE5BZOERUZBO2ZP0LDa+5lAEr9zCIVORVg/TOgsQKBgQDsAsfJYxmJ9u3Bdozc\nmbqvdbBuUxt/Tl0f+KAfMq2Foin8QuOe0Qc4gokOQg/NYL+0vtmE+FJHdcdUWcjD\nTaGgI0RoEeFG5H7Qu8n59n93f1rV4hght+46EPCFFv9LOs6E59hPd7D21xRk/9bY\n5TDd5RdqmHRobbkNhzJecCG2+wKBgQDZ7iWlhuThTdqzZ9AkhOeoMXPha6UHy7Xp\nGnMwaGOxuttk+rHKgi2ck96YP8an78BumF+JFH5R0cbX0tkDZtPDZ/aRzkHptNBY\nEci98Q0Aa5jdutm2GBulUdiPWtTOe4y6HwSwueMUjoiJRZMCkt4mXt/TkwyFMGpO\nqVGuKFji5wKBgQC+5/DbggHii47+cvq2ZtOPok84rpkLfUPu3JoJImEiO25i02hz\nyvlgSJa8pctKgfwQJGCnIobLrwWxwX6YHG+krWJkHDJxudqq1XwnabDp5GaBpAWJ\nINLevV0RCu0u2T68Wx2qClNnF8szd48+mwXQN8OdQfzHjBmoS7f+lA1xiQKBgQCj\nIfOoXrvCM+c8WL+kNqC6dJpL6apVlZYMcjI70EigaEGG62pfLuc5yC7eRQ9N8thX\ncVRCZsbQNHnmYPz14Okv4wjdyEnqyeETq+xa0rBq2iBKCm6iMpWvQP8dAF9AWZfU\nUxfNurhTUQa/ywbq7EnC604dMHw0zzMkwvZTqfwvjQKBgCmAlxa134m8glVyVoin\nFzlFL8U0y4ocBzNcuadpHHOHhXfOQ4Rb4888BVU32BHCnKNxfFnfU2Z+jIqyhH+J\nyQl0JT1Jj+RvkcpNe/sZiDsieERjmbmfbJUxv9hnNvQzJ1ZTLRIqXJXM4NDdS5Ld\nhcMnWEeOpUGp43jK4s+ID0P0\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2ekd5@marco-venturenix-project-d801a.iam.gserviceaccount.com",
+  "client_id": "115763647466287279858",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2ekd5%40marco-venturenix-project-d801a.iam.gserviceaccount.com"
+}
